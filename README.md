@@ -30,7 +30,7 @@ A comprehensive, real-time system monitoring tool built with pure Bash shell scr
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linux-system-monitor.git
+git clone https://github.com/Nanthakumar-N2/Real-Time-Data-Infrastructure-Linux-System-Monitor.git
 cd linux-system-monitor
 
 # Make the script executable
@@ -45,7 +45,7 @@ sudo ./install.sh
 
 ### Quick Run (Without Installation)
 ```bash
-wget https://raw.githubusercontent.com/yourusername/linux-system-monitor/main/monitor.sh
+wget https://github.com/Nanthakumar-N2/Real-Time-Data-Infrastructure-Linux-System-Monitor.git/main/monitor.sh
 chmod +x monitor.sh
 ./monitor.sh
 ```
